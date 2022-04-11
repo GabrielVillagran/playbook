@@ -3,9 +3,7 @@
 
 - Entender la VM(V8)
 - Conjunto de librerias de node
-- Comunidad
-- Lenguajes que soporta la VM
-- Entender la comunidad del framework
+- Comunidad: Entender la comunidad del framework
 - Lenguajes que soporta la VM por medio del Transpilador
 
 Transpilador --> Lenguajes soportados que se pueden compilar en cuanto al lenguaje a utilizar, por ejemplo:
@@ -15,4 +13,3 @@ Transpilador --> Lenguajes soportados que se pueden compilar en cuanto al lengua
 Existen 2 tipos de lenguajes los cuales son:
 - Dinamicos
 - Tipados
--
