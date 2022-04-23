@@ -8,6 +8,6 @@ Proyectos desarrollados en la semana 3 de Launch X:
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/GabrielVillagran/creacion_proyectos_js)|
 |`spiderverse`|2|[Link al repo](https://github.com/GabrielVillagran/TDD_Spiderverse)|
-|`twitter`|3, 4, 5|[Link al repo](https://github.com/)|
+|`twitter`|3, 4, 5|[Link al repo](https://github.com/GabrielVillagran/twitter)|
 |`express_basic`|6|[Link al repo](https://github.com/)|
 |`express_api`|7|[Link al repo](https://github.com/)|
